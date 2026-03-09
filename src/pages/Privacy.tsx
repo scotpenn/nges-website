@@ -155,7 +155,7 @@ const Privacy = () => {
                   </li>
                 </ul>
                 <p className="text-gray-700 mt-4">
-                  To exercise these rights, please contact us at <a href="mailto:sarah@neurgrid.ca" className="text-blue-600 hover:underline">sarah@neurgrid.ca</a>.
+                  To exercise these rights, please contact us at <a href="mailto:scot@neurgrid.ca" className="text-blue-600 hover:underline">scot@neurgrid.ca</a>.
                 </p>
               </div>
             </section>
@@ -226,7 +226,7 @@ const Privacy = () => {
                   <p className="text-gray-700">
                     <strong>Neurgrid Energy Solution Inc.</strong><br />
                     Vancouver, British Columbia, Canada<br />
-                    Email: <a href="mailto:sarah@neurgrid.ca" className="text-blue-600 hover:underline">sarah@neurgrid.ca</a><br />
+                    Email: <a href="mailto:scot@neurgrid.ca" className="text-blue-600 hover:underline">scot@neurgrid.ca</a><br />
                     Phone: <a href="tel:+1-778-917-9876" className="text-blue-600 hover:underline">+1-778-917-9876</a>
                   </p>
                 </div>
