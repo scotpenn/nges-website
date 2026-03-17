@@ -29,6 +29,14 @@ const SolutionsOverview = () => {
       link: '/solutions/microgrid',
     },
     {
+      icon: Zap,
+      title: 'BESS + EV Fast Charging',
+      description:
+        'Power Level 3 chargers with "Plug-and-Play" pre-integrated BESS + EMS platforms. We bypass grid constraints and simplify installation for DC fast-charging projects.',
+      image: '/images/solution-ev-bess-hero.png',
+      link: '/solutions/ev-bess',
+    },
+    {
       icon: Sprout,
       title: 'Greenhouse ESI (Agriculture)',
       description:

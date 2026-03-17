@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import CIIStorage from './pages/solutions/CIIStorage';
 import Microgrid from './pages/solutions/Microgrid';
 import Greenhouse from './pages/solutions/Greenhouse';
+import EVBESS from './pages/solutions/EVBESS';
 import NeurGridOS from './pages/technology/NeurGridOS';
 import Compliance from './pages/technology/Compliance';
 import Partners from './pages/Partners';
@@ -25,6 +26,7 @@ function App() {
           <Route path="/solutions/cii-storage" element={<CIIStorage />} />
           <Route path="/solutions/microgrid" element={<Microgrid />} />
           <Route path="/solutions/greenhouse" element={<Greenhouse />} />
+          <Route path="/solutions/ev-bess" element={<EVBESS />} />
           <Route path="/technology" element={<NeurGridOS />} />
           <Route path="/technology/neurgrid-os" element={<NeurGridOS />} />
           <Route path="/technology/compliance" element={<Compliance />} />

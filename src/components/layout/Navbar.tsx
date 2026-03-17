@@ -44,6 +44,7 @@ const Navbar = () => {
       dropdown: [
         { name: 'Transmission & C&I Storage', path: '/solutions/cii-storage' },
         { name: 'Microgrids & Resilience', path: '/solutions/microgrid' },
+        { name: 'BESS + EV Fast Charging', path: '/solutions/ev-bess' },
         { name: 'Greenhouse & Agriculture', path: '/solutions/greenhouse' },
       ],
     },
